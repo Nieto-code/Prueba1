@@ -6,7 +6,7 @@ public class archivo1 {
 		
 		int numero=1;
 		int numero2=2;
-		int numero3=3;
+		int numero3=4;
 		
 		System.out.println("El primer numero es " + numero);
 	}	
